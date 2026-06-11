@@ -1,0 +1,8 @@
+# Ignore scripts and raw files
+*.docx
+*.ps1
+reorder.js
+reorder2.js
+fix_links.js
+my image.jpg
+ahmed_headshot*.png
